@@ -30,12 +30,12 @@ button {
   border-radius: 5px;
 }
 
-increment-bnt {
-  background: darkgreen;
+increment-btn {
+  background-color: darkgreen;
 }
 
 save-bnt {
-  background: darkred;
+  background-color: darkred;
 }
 
 save-el { 
